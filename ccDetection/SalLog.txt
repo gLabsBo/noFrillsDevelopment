@@ -1,0 +1,4 @@
+[17/01/16 16:47:39:351] Get saliency maps for images `Images/image.jpg' and save results to `.\SalMaps/\'
+[17/01/16 16:47:39:523] Get saliency finished                                        
+[17/01/16 16:47:39:523] Evaluate saliency maps according to ground truth results `Images/*.jpg'
+[17/01/16 16:47:39:679] Results saved to results.m
