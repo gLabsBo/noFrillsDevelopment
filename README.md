@@ -1,4 +1,5 @@
 NoFrillsDev
+
 This pipeline uses a Macbeth colorchecker to correct the colors of an image.
 In order to do that, it uses
 DC_RAW or RAWTHERAPEE to read a raw file
