@@ -8,7 +8,7 @@ White balance is performed in window mode in dcRaw.
 TODO in RAWTHERAPEE
 Image is then color corrected using different approaches:
 1) polyfit - weighted polyfit
-2) spline
+2) spline based fitting (based on SLMtools)
 3) SHAFT, that is a trial and error approach freely inspired by Adobe Camera Raw script
 
 Credits
