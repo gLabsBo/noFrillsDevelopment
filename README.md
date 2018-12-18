@@ -11,6 +11,9 @@ Image is then color corrected using different approaches:
 2) spline based fitting (based on SLMtools)
 3) SHAFT, that is a trial and error approach freely inspired by Adobe Camera Raw script
 
+USAGE
+Launch noFrillsDevelopment.m to process a file or a folder containing raw images with detectable colorchecker 
+
 Credits
 ccFind
 ccFind is a customization of the code from the paper: Garcia Capel, Luis E. & Hardeberg, Jon Y.. Automatic Color Reference Target Detection. The 22nd Color and Imaging Conference (CIC), IS&T, Pages 119-124, Boston, MA, USA, Nov, 2014. 
