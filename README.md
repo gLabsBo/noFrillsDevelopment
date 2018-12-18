@@ -1,6 +1,6 @@
 NoFrillsDev
 
-This pipeline uses a Macbeth colorchecker to correct the colors of an image.
+This Matlab pipeline uses a Macbeth colorchecker to correct the colors of an image.
 In order to do that, it uses
 DC_RAW or RAWTHERAPEE to read a raw file
 ccFind to identify a Macbeth colorchecker target in the image
@@ -25,4 +25,7 @@ by Dave Coffin https://www.cybercom.net/~dcoffin/dcraw/
 SLMtools
 Shape language Modeling by John D'Errico
 https://it.mathworks.com/matlabcentral/fileexchange/24443-slm-shape-language-modeling
+
+Requirements
+Matlab 2017b with image Toolbox
 
